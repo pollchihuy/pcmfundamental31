@@ -25,7 +25,6 @@ public class DeklarasiVariabel {
 //        int intZ = 5/2;
         double intZ = 5/2.0;
         System.out.println("Nilai intZ : "+intZ);
-
         byte b = 127 ;
 
     }
